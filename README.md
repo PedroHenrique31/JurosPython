@@ -33,5 +33,15 @@ e simplificando essa fórmula para melhor legibilidade:
 $M=C*(1+i*t),$  
  *onde i é a taxa de juros*  
 
-é importante olhar para essa fórmula, pois é a partir dela que será calculado os juros compostos.
+é importante olhar para essa fórmula, pois é a partir dela que será calculado os juros compostos.  
+Veja que pela fórmula acima, podemos descrever variadas formas de dar dinheiro a alguém, como um "empréstimo". Quando selecionamos *i=0*, 
+vemos que pela fórmula isso equivale a maioria dos empréstimos informais, onde o tomador paga apenas o valor emprestado de volta em algum momento.  
+Já quando selecionamos *i=-1* pela fórmula isso equivale a uma doação, onde o "tomador" do emprétimo não se vê obirgado a pagar nada depois. Essa pode ser uma forma bastante viajada de se pensar, mas é notável que no passado muitos economistas liberais *matematizávam* a questão de doações dessa forma, e por isso essa visão sobre os empréstimos orientou diversas políticas monetárias ao longo do tempo.
 
+### Juros Compostos
+O caso dos juros compostos começam quando surge a idéia de crédito, nela o tomador de empréstimo, tem uma quantida pré-Aprovada que ele pode utilizar e o banco *acredita* (daí o termo) que ele dará conta de arcar com esse pagamento num prazo muito curto (algo como 1 mês),
+essa modalidade de empréstimo então é semelhante ao caso de um amigo seu que te empresta uma grana acreditando que vc pagará amanhã.
+Note que nesse caso específico valor de *t=1* e assim a fórmula do juros acaba sendo:  
+$$
+M=C*(1+i)
+$$ 
