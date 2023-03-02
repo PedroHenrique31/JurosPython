@@ -13,7 +13,7 @@ riqueza.
 
 Para tal cálculo é considerado justo cobrar um valor proporcional ao valor emprestado, assim, na escola você provavelmente estudou os 
 juros calculados da seguinte forma:  
-- $$J=C*i$$, onde  
+- $$J=C*i, onde$$  
 J é o juro a ser pago;  
 C é o capital (valor) emprestado;  
 i é a taxa de juros (um valor que para ser justo varia entre 0 e 1).
