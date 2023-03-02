@@ -30,8 +30,8 @@ Assim, tomando *t* como sendo o tempo para quitação do empréstimo:
 $M=C+J*t$  
 e simplificando essa fórmula para melhor legibilidade:  
 
-$M=C*(1+i*t)$  
-*, onde i é a taxa de juros*  
+$M=C*(1+i*t),$  
+ *onde i é a taxa de juros*  
 
 é importante olhar para essa fórmula, pois é a partir dela que será calculado os juros compostos.
 
