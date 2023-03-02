@@ -40,8 +40,7 @@ Já quando selecionamos *i=-1* pela fórmula isso equivale a uma doação, onde 
 
 ### Juros Compostos
 O caso dos juros compostos começam quando surge a idéia de crédito, nela o tomador de empréstimo, tem uma quantida pré-Aprovada que ele pode utilizar e o banco *acredita* (daí o termo) que ele dará conta de arcar com esse pagamento num prazo muito curto (algo como 1 mês),
-essa modalidade de empréstimo então é semelhante ao caso de um amigo seu que te empresta uma grana acreditando que vc pagará amanhã.
+essa modalidade de empréstimo então é semelhante ao caso de um amigo seu que te empresta uma grana acreditando que vc pagará amanhã.  
+
 Note que nesse caso específico valor de *t=1* e assim a fórmula do juros acaba sendo:  
-$$
-M=C*(1+i)
-$$ 
+$$M=C*(1+i)$$ 
